@@ -22,4 +22,4 @@ The analysis was conducted using SQL for data exploration and cleaning, and the 
 
 ## 🙏 Acknowledgements
 - Data source: [Our World in Data](https://ourworldindata.org/covid-deaths)  
-- Project inspired by Alex the Analyst’s SQL Data Exploration series  
+- Project inspired by Alex the Analyst 
